@@ -1,2 +1,2 @@
-![Блок-схема](https://disk.yandex.ru/i/haSgn5GCWvx_4A)
-![Блок-схема](Блок-схема.png)
+![Блок-схема](https://disk.yandex.ru/i/haSgn5GCWvx_4A.jpg)
+
